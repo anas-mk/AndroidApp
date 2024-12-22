@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "776529281713",
+    "project_id": "ride-b6be9",
+    "storage_bucket": "ride-b6be9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:776529281713:android:33f0275573ba27e64e9890",
+        "android_client_info": {
+          "package_name": "com.example.loopride"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxKMbiwF3HcURkw5hWo93f_Y161KdzWsE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
